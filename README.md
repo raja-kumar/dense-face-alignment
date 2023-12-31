@@ -31,5 +31,18 @@ sample command for custom points
 python run.py --data_path sample_input --custom_index model_training/model/static/face_keypoints/ids1.npy
 `
 
+## Citation
+
+If you found this work useful for your research, please consider citing our paper
+
+```
+@inproceedings{kumar2023disjoint,
+  title={Disjoint Pose and Shape for 3D Face Reconstruction},
+  author={Kumar, Raja and Luo, Jiahao and Pang, Alex and Davis, James},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3115--3125},
+  year={2023}
+}
+```
 ## Attributions
 this repo is built on top of base code from [DAD-3DHeads](https://github.com/PinataFarms/DAD-3DHeads)
