@@ -39,7 +39,7 @@ If you found this work useful for your research, please consider citing our pape
 @inproceedings{kumar2023disjoint,
   title={Disjoint Pose and Shape for 3D Face Reconstruction},
   author={Kumar, Raja and Luo, Jiahao and Pang, Alex and Davis, James},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
   pages={3115--3125},
   year={2023}
 }
